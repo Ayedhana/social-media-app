@@ -8,9 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "engines": {
-    "node":"^23.9.0"
-  },
+  "engines": { "node": "22.x" },
   "license": "ISC",
   "dependencies": {
     "body-parser": "^2.2.0",
